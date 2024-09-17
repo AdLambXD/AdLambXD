@@ -1,3 +1,6 @@
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 - 👋 Hi, I’m @AdLambXD
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
